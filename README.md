@@ -1,0 +1,1 @@
+# Stock-Management-System-Project-in-Python-Django
